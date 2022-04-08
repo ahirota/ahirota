@@ -1,5 +1,5 @@
 # Hi, I'm Alex Hirota.
-I'm a full stack developer with  4.5 years of professional experience building internal and client-facing web applications. Adaptive and resourceful, I can thrive in most places and shoulder multiple responsibilities. My skills include: 
+I'm a full stack developer with  4.5 years of professional experience building internal and client-facing web applications. Adaptive and resourceful, I can thrive in most places and shoulder multiple responsibilities. Check out my skillset.
 ## Languages & Frameworks
 - JavaScript
 - jQuery
