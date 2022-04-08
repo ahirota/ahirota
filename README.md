@@ -12,6 +12,8 @@ I'm a full stack developer with  4.5 years of professional experience building i
 - SCSS   
 - SQL
 - MySQL 
+- Python
+- C#
 
 ## Platforms and Products
 - Docker
