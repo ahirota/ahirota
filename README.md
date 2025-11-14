@@ -1,37 +1,23 @@
-# Hi, I'm Alex Hirota.
-I'm a full stack developer with  4.5 years of professional experience building internal and client-facing web applications. Adaptive and resourceful, I can thrive in most places and shoulder multiple responsibilities. Check out my skillset.
-## Languages & Frameworks
-- JavaScript
-- jQuery
-- Node.js
-- React
-- Vue.js 
-- Nuxt.js
-- HTML
-- CSS 
-- SCSS   
-- SQL
-- MySQL 
-- Python
-- C#
+# 👋 Hi, I'm Alex Hirota
 
-## Platforms and Products
-- Docker
-- Heroku 
-- Firebase 
-- Google Apps API
-- Shopify API
-- NetSuite and SuiteScript 
-- Trello
+Web Developer with 7 years of experience in building responsive, efficient, and scalable web applications. I'm known for being adaptable, resourceful, and able to quickly learn new codebases without needing handholding. I thrive in collaborative environments, using my strong communication skills to bridge the gap between non-technical and technical teams.
 
-## VCS
-- Git
-- Sourcetree 
+## 🔑 Key Skills
+- **Languages & Frameworks**: HTML, CSS, SCSS, JavaScript, Node.js, Vue.js, Nuxt.js, SQL, MySQL, Python  
+- **Tools & Platforms**: Git, JIRA, Firebase, Google App Scripts, Google Apps API, Shopify API, NetSuite/SuiteScript  
+- **Other**: React.js, Swift, C# 
+- **Currently Learning**: Electron, Typescript
 
-## Methodology
-- Test-Driven Development (TDD)
-- Object-Oriented Programming (OOP)
-- User Centered Design (UCD) 
+## 📚 Education
+UC Irvine Donald Bren School of Information and Computer Sciences
+Bachelor of Science - BS, Informatics
+*Sep 2012 - Mar 2017*
 
-# Check me out!
-[LinkedIn](https://www.linkedin.com/in/alex-hirota/)
+## 🔗 Links
+- [GitHub](https://github.com/ahirota)
+- [LinkedIn](https://linkedin.com/in/alex-hirota)
+- Email: avjhirota@gmail.com
+
+---
+
+> **"With a passion for web development, I strive to create functional, beautiful, and accessible web experiences. Let's connect and collaborate!"**
