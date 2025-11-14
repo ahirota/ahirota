@@ -9,14 +9,14 @@ Software Developer with 7 years of experience in building responsive, efficient,
 - **Currently Learning**: Electron, Typescript
 
 ## 📚 Education
-UC Irvine Donald Bren School of Information and Computer Sciences
-Bachelor of Science - BS, Informatics
+**UC Irvine Donald Bren School of Information and Computer Sciences**  
+Bachelor of Science - BS, Informatics  
 *Sep 2012 - Mar 2017*
 
 ## 🔗 Links
 - [GitHub](https://github.com/ahirota)
 - [LinkedIn](https://linkedin.com/in/alex-hirota)
-- Email: avjhirota@gmail.com
+- avjhirota@gmail.com
 
 ---
 
