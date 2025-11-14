@@ -5,7 +5,7 @@ Software Developer with 7 years of experience in building responsive, efficient,
 ## 🔑 Key Skills
 - **Languages & Frameworks**: HTML, CSS, SCSS, JavaScript, Node.js, Vue.js, Nuxt.js, SQL, MySQL, Python  
 - **Tools & Platforms**: Git, JIRA, Firebase, Google App Scripts, Google Apps API, Shopify API, NetSuite/SuiteScript  
-- **Other**: React.js, Swift, C# 
+- **Minor Experience**: React.js, Swift, C# 
 - **Currently Learning**: Electron, Typescript
 
 ## 📚 Education
