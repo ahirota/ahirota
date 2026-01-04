@@ -17,7 +17,3 @@ Bachelor of Science - BS, Informatics
 - [GitHub](https://github.com/ahirota)
 - [LinkedIn](https://linkedin.com/in/alex-hirota)
 - avjhirota@gmail.com
-
----
-
-> **"With a passion for web development, I strive to create functional, beautiful, and accessible web experiences. Let's connect and collaborate!"**
